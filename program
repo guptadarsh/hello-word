@@ -1,0 +1,2 @@
+In python, it is simple to implement the "Hello Word" program.
+print('Hello Word')
